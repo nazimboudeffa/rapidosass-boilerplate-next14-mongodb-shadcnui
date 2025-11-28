@@ -1,5 +1,5 @@
-<a href="https://allbiiiz.com">
-  <h1 align="center">Influence</h1>
+<a href="https://rapidosaas.com">
+  <h1 align="center">Rapido SaaS Boilerplate</h1>
 </a>
 
 <p align="center">
