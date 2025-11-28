@@ -13,7 +13,7 @@
 
 ## Introduction
 
-Influence is an open-source SaaS boilerplate where you can make business online.
+Rapido SaaS Boilerplate is an open-source SaaS boilerplate where you can make business online.
 
 ## Documentation
 
