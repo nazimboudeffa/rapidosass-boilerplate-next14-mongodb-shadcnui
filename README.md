@@ -15,22 +15,6 @@
 
 Rapido SaaS Boilerplate is an open-source SaaS boilerplate where you can make business online.
 
-## Documentation
-
-The doc is available on https://nazimboudeffa.gumroad.com
-
-## Donations
-
-This software is free 
-
-But you can make a donations to the devs
-
-Please note that your donation is not an engagement of any of the parts, you are free, we are free, and we love free softwares
-
-## Support
-
-You can join our little server on Discord https://discord.gg/EPM4rqpmcf
-
 ## Features
 
 - Networking
@@ -64,3 +48,11 @@ Here's how you can contribute:
 
 - Open an issue if you believe you've encountered a bug.
 - Make a pull request in the develop branch to add new features/make quality-of-life improvements/fix bugs.
+
+## Donations
+
+This software is free 
+
+But you can make a donations to the devs
+
+Please note that your donation is not an engagement of any of the parts, you are free, we are free, and we love free softwares
